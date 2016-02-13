@@ -2,7 +2,7 @@
 This is my first repository.Followed by the instructions given on github.com to learn github.
 
 Pranay Gawand
-Senior Software Engineer at Capgemini Indian
+Senior Software Engineer at Capgemini India
 Experience : 
 2+ in .Net technologies
   Such as : c#,ASP.net, ASP.net MVC3/5, ADO.net, WCF, WPF, Winforms, Webservices, VB6, classic asp, COM components
